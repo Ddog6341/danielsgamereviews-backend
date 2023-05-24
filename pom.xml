@@ -1,11 +1,11 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
   <modelVersion>4.0.0</modelVersion>
-  <groupId>com.bravo.user</groupId>
-  <artifactId>candidate-sample-java</artifactId>
+  <groupId>com.daniels.gamereviews</groupId>
+  <artifactId>gamereviews</artifactId>
   <packaging>jar</packaging>
   <version>1.0-SNAPSHOT</version>
-  <name>candidate-sample-java</name>
+  <name>gamereviews</name>
 
   <parent>
     <groupId>org.springframework.boot</groupId>
@@ -18,15 +18,7 @@
     <java.version>11</java.version>
   </properties>
 
-
   <dependencies>
-
-    <!-- h2 -->
-    <dependency>
-      <groupId>com.h2database</groupId>
-      <artifactId>h2</artifactId>
-      <scope>runtime</scope>
-    </dependency>
 
     <!-- Guava -->
     <dependency>

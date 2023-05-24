@@ -1,4 +1,4 @@
-package com.bravo.user.model.dto;
+package com.daniels.model.dto;
 
 import java.time.LocalDateTime;
 import lombok.Data;

@@ -1,4 +1,4 @@
-package com.bravo.user.utility;
+package com.daniels.utility;
 
 import javax.servlet.http.HttpServletResponse;
 import lombok.experimental.UtilityClass;

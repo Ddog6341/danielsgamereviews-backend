@@ -1,4 +1,4 @@
-package com.bravo.user.annotation;
+package com.daniels.annotation;
 
 import java.lang.annotation.ElementType;
 import java.lang.annotation.Retention;

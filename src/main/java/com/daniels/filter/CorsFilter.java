@@ -1,4 +1,4 @@
-package com.bravo.user.filter;
+package com.daniels.filter;
 
 import java.io.IOException;
 import javax.servlet.FilterChain;

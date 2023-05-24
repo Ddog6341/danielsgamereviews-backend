@@ -1,4 +1,4 @@
-package com.bravo.user.utility;
+package com.daniels.utility;
 
 import java.time.format.DateTimeFormatter;
 import lombok.experimental.UtilityClass;

@@ -1,12 +1,12 @@
-package com.bravo.user;
+package com.daniels;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class App {
+public class GameReviewsApp {
 
     public static void main(String[] args) {
-        SpringApplication.run(App.class, args);
+        SpringApplication.run(GameReviewsApp.class, args);
     }
 }

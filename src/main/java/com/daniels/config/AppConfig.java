@@ -1,6 +1,6 @@
-package com.bravo.user.config;
+package com.daniels.config;
 
-import com.bravo.user.utility.DateUtil;
+import com.daniels.utility.DateUtil;
 import com.fasterxml.jackson.databind.SerializationFeature;
 import com.fasterxml.jackson.datatype.jdk8.Jdk8Module;
 import com.fasterxml.jackson.datatype.jsr310.JavaTimeModule;

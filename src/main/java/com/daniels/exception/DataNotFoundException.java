@@ -1,4 +1,4 @@
-package com.bravo.user.exception;
+package com.daniels.exception;
 
 import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.ResponseStatus;

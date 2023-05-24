@@ -1,6 +1,6 @@
-package com.bravo.user.config;
+package com.daniels.config;
 
-import com.bravo.user.annotation.SwaggerController;
+import com.daniels.annotation.SwaggerController;
 import java.time.LocalDate;
 import java.time.LocalDateTime;
 import java.time.LocalTime;

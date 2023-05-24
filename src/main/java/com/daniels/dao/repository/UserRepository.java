@@ -1,6 +1,6 @@
-package com.bravo.user.dao.repository;
+package com.daniels.dao.repository;
 
-import com.bravo.user.dao.model.User;
+import com.daniels.dao.model.User;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

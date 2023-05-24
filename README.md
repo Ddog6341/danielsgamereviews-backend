@@ -1,4 +1,4 @@
-# Daneils Game Reviews Backend
+# Daniels Game Reviews Backend
 
 ---
 

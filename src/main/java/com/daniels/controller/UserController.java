@@ -1,9 +1,9 @@
-package com.bravo.user.controller;
+package com.daniels.controller;
 
-import com.bravo.user.annotation.SwaggerController;
-import com.bravo.user.model.dto.UserReadDto;
-import com.bravo.user.service.UserService;
-import com.bravo.user.utility.PageUtil;
+import com.daniels.annotation.SwaggerController;
+import com.daniels.model.dto.UserReadDto;
+import com.daniels.service.UserService;
+import com.daniels.utility.PageUtil;
 import java.util.List;
 import javax.servlet.http.HttpServletResponse;
 import org.springframework.data.domain.PageRequest;

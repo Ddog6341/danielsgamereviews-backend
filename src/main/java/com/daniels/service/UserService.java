@@ -1,11 +1,11 @@
-package com.bravo.user.service;
+package com.daniels.service;
 
-import com.bravo.user.dao.model.User;
-import com.bravo.user.dao.model.mapper.ResourceMapper;
-import com.bravo.user.dao.repository.UserRepository;
-import com.bravo.user.exception.DataNotFoundException;
-import com.bravo.user.model.dto.UserReadDto;
-import com.bravo.user.utility.PageUtil;
+import com.daniels.dao.model.User;
+import com.daniels.dao.model.mapper.ResourceMapper;
+import com.daniels.dao.repository.UserRepository;
+import com.daniels.exception.DataNotFoundException;
+import com.daniels.model.dto.UserReadDto;
+import com.daniels.utility.PageUtil;
 import java.util.List;
 import java.util.Optional;
 import javax.servlet.http.HttpServletResponse;

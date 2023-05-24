@@ -1,4 +1,4 @@
-package com.bravo.user.dao.model;
+package com.daniels.dao.model;
 
 import java.time.LocalDateTime;
 import java.util.UUID;
